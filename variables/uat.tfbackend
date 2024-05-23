@@ -1,0 +1,4 @@
+resource_group_name  = "uat-rg-aue-tfstate" 
+storage_account_name = "uatrgauetfstate123647"                 
+container_name       = "tfstate"                  
+key                  = "uat.tfstate"   

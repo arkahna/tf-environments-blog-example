@@ -1,0 +1,4 @@
+resource_group_name  = "dev-rg-aue-tfstate" 
+storage_account_name = "devrgauetfstate123647"                 
+container_name       = "tfstate"                  
+key                  = "dev.tfstate"   

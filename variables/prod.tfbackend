@@ -1,0 +1,4 @@
+resource_group_name  = "prod-rg-aue-tfstate" 
+storage_account_name = "prodrgauetfstate123647"                 
+container_name       = "tfstate"                  
+key                  = "prod.tfstate"   
