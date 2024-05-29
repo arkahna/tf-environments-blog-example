@@ -23,8 +23,3 @@ variable "naming" {
   })
   nullable = false
 }
-variable "acomplicatedlist" {
-  type = list(object({
-    name = string
-  }))
-}
